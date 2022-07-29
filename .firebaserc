@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "default": "deploy-flutter-web-app"
+  }
+}
